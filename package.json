@@ -1,5 +1,13 @@
 {
     "name": "@nik_ellis/test",
     "version": "1.0.0",
-    "main": "index.js"
+    "main": "index.js",
+    "description": "Test publishing of NPM package",
+    "repository": "github:nik_ellis/test",
+    "keywords": [
+        "test",
+        "npm",
+        "package",
+        "publishing"
+    ]
 }
